@@ -1,0 +1,11 @@
+{Mesh
+  [ 'E1
+    Shape = "Cone"
+    Color = 255, 255, 255
+    AltColor = 0, 0, 0
+    Position = 0, 0, 0
+    Height = 10
+    Diameter = 30
+    Smoothness = 100
+  ]
+}
